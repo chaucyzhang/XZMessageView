@@ -1,0 +1,6 @@
+framework module XZMessageView {
+  umbrella header "XZMessageView-umbrella.h"
+
+  export *
+  module * { export * }
+}

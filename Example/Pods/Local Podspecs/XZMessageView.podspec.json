@@ -1,0 +1,22 @@
+{
+  "name": "XZMessageView",
+  "version": "0.1.0",
+  "summary": "A short description of XZMessageView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/XZMessageView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tringappsXiZhang": "xi.zhang@tringapps.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/XZMessageView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XZMessageView/Classes/**/*"
+}

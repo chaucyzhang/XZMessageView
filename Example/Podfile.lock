@@ -1,0 +1,26 @@
+PODS:
+  - FBSnapshotTestCase (2.1.2):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.2)
+  - FBSnapshotTestCase/Core (2.1.2)
+  - FBSnapshotTestCase/SwiftSupport (2.1.2):
+    - FBSnapshotTestCase/Core
+  - Kiwi (2.4.0)
+  - XZMessageView (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - Kiwi
+  - XZMessageView (from `../`)
+
+EXTERNAL SOURCES:
+  XZMessageView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 918c55861356ee83aee7843d759f55a18ff6982b
+  Kiwi: f49c9d54b28917df5928fe44968a39ed198cb8a8
+  XZMessageView: 22dc2486b4fd5ca03de69f97d4d48d096dd2404a
+
+PODFILE CHECKSUM: a33a29ddb0cce797349ee6fafef87417488a83c0
+
+COCOAPODS: 1.0.1

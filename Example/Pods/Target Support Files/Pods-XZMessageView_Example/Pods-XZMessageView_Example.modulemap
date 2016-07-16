@@ -1,0 +1,6 @@
+framework module Pods_XZMessageView_Example {
+  umbrella header "Pods-XZMessageView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
