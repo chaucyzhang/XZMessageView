@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # XZMessageView
 
 [![CI Status](http://img.shields.io/travis/tringappsXiZhang/XZMessageView.svg?style=flat)](https://travis-ci.org/tringappsXiZhang/XZMessageView)
@@ -23,11 +22,11 @@ pod "XZMessageView"
 
 ## Author
 
-tringappsXiZhang, xi.zhang@tringapps.com
+Xi Zhang, chaucyzhang@gmail.com
 
 ## License
 
 XZMessageView is available under the MIT license. See the LICENSE file for more info.
 =======
 # XZMessageView
->>>>>>> 7d1c2d85df0750c89ef50ed24b2be3d80020bc45
+
