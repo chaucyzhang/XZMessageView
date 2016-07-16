@@ -24,11 +24,10 @@
 //    [messageView setFont:[UIFont fontWithName:@"HelveticaNeue-Light" size:17.0]];
 //    [messageView setAutoHideDelay:10.0];
 //    [messageView setAnimationDuration:4.0];
-     [messageView displayErrorMsgViewWithText:@"ass"];
+     [messageView displayErrorMsgViewWithText:@"Error msg 1"];
     dispatch_time_t delayTime = dispatch_time(DISPATCH_TIME_NOW, (int64_t)(NSEC_PER_SEC*1.0));
     dispatch_after(delayTime, dispatch_get_main_queue(), ^{
-       
-        [messageView displayErrorMsgViewWithText:@"asdfsdf"];
+        [messageView displayErrorMsgViewWithText:@"This is a message"];
     });
     
 	// Do any additional setup after loading the view, typically from a nib.
