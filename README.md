@@ -19,17 +19,6 @@ it, simply add the following line to your Podfile:
 ```ruby
 pod "XZMessageView"
 ```
-
-## Author
-
-Xi Zhang, chaucyzhang@gmail.com
-
-## License
-
-XZMessageView is available under the MIT license. See the LICENSE file for more info.
-=======
-# XZMessageView
-
 ##API Example:
 
 ##Initilize XZMessageView: 
@@ -58,6 +47,18 @@ you can also customize the message background color/font/font color/animation du
 
 [messageView setAutoHideDelay:10.0];
 ```
+
+## Author
+
+Xi Zhang, chaucyzhang@gmail.com
+
+## License
+
+XZMessageView is available under the MIT license. See the LICENSE file for more info.
+=======
+# XZMessageView
+
+
 
 
 
