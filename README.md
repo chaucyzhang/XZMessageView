@@ -34,12 +34,12 @@ XZMessageView is available under the MIT license. See the LICENSE file for more 
 
 ##Initilize XZMessageView: 
 ```
-**XZMessageView *messageView = [[XZMessageView alloc] initWithSize:CGSizeMake([UIScreen mainScreen].bounds.size.width, 44.0)];**
+XZMessageView *messageView = [[XZMessageView alloc] initWithSize:CGSizeMake([UIScreen mainScreen].bounds.size.width, 44.0)];
 ```
 
 ##Display message:
 ```
-**[messageView displayErrorMsgViewWithText:@"msg"]**;
+[messageView displayErrorMsgViewWithText:@"msg"];
 ```
 
 
@@ -48,15 +48,15 @@ XZMessageView is available under the MIT license. See the LICENSE file for more 
 you can also customize the message background color/font/font color/animation duration/message auto hide delay:
 
 ```
-**[messageView setBgColor:[UIColor redColor]]**;
+[messageView setBgColor:[UIColor redColor]];
 
-**[messageView setFont:[UIFont fontWithName:@"HelveticaNeue-Light" size:17.0]]**;
+[messageView setFont:[UIFont fontWithName:@"HelveticaNeue-Light" size:17.0]];
 
-**[messageView setFontColor:[UIColor blueColor]]**;
+[messageView setFontColor:[UIColor blueColor]];
 
-**[messageView setAnimationDuration:4.0]**;
+[messageView setAnimationDuration:4.0];
 
-**[messageView setAutoHideDelay:10.0]**;
+[messageView setAutoHideDelay:10.0];
 ```
 
 
